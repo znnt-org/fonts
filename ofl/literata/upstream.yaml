@@ -2,3 +2,4 @@ branch: main
 files:
   fonts/variable/Literata[opsz,wght].ttf: Literata[opsz,wght].ttf
   fonts/variable/Literata-Italic[opsz,wght].ttf: Literata-Italic[opsz,wght].ttf
+repository_url: https://github.com/googlefonts/literata
