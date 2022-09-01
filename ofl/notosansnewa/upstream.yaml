@@ -1,0 +1,7 @@
+archive: https://github.com/notofonts/newa/releases/download/NotoSansNewa-v2.005/NotoSansNewa-v2.005.zip
+branch: main
+files:
+  OFL.txt: OFL.txt
+  ARTICLE.en_us.html: article/ARTICLE.en_us.html
+  DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
+  NotoSansNewa/googlefonts/ttf/NotoSansNewa-Regular.ttf: NotoSansNewa-Regular.ttf
