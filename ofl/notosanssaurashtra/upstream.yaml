@@ -1,0 +1,7 @@
+archive: https://github.com/notofonts/saurashtra/releases/download/NotoSansSaurashtra-v2.001/NotoSansSaurashtra-v2.001.zip
+branch: main
+files:
+  OFL.txt: OFL.txt
+  ARTICLE.en_us.html: article/ARTICLE.en_us.html
+  DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
+  NotoSansSaurashtra/googlefonts/ttf/NotoSansSaurashtra-Regular.ttf: NotoSansSaurashtra-Regular.ttf
