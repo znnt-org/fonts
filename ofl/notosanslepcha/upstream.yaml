@@ -1,0 +1,7 @@
+archive: https://github.com/notofonts/lepcha/releases/download/NotoSansLepcha-v2.004/NotoSansLepcha-v2.004.zip
+branch: main
+files:
+  OFL.txt: OFL.txt
+  ARTICLE.en_us.html: article/ARTICLE.en_us.html
+  DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
+  NotoSansLepcha/googlefonts/ttf/NotoSansLepcha-Regular.ttf: NotoSansLepcha-Regular.ttf
