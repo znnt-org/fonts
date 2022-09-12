@@ -1,0 +1,7 @@
+archive: https://github.com/notofonts/sharada/releases/download/NotoSansSharada-v2.005/NotoSansSharada-v2.005.zip
+branch: main
+files:
+  OFL.txt: OFL.txt
+  ARTICLE.en_us.html: article/ARTICLE.en_us.html
+  DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
+  NotoSansSharada/googlefonts/ttf/NotoSansSharada-Regular.ttf: NotoSansSharada-Regular.ttf
