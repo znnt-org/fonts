@@ -1,0 +1,7 @@
+archive: https://github.com/notofonts/siddham/releases/download/NotoSansSiddham-v2.003/NotoSansSiddham-v2.003.zip
+branch: main
+files:
+  OFL.txt: OFL.txt
+  ARTICLE.en_us.html: article/ARTICLE.en_us.html
+  DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
+  NotoSansSiddham/googlefonts/ttf/NotoSansSiddham-Regular.ttf: NotoSansSiddham-Regular.ttf
