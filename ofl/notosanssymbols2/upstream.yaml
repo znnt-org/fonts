@@ -1,0 +1,6 @@
+archive: https://github.com/notofonts/symbols/releases/download/NotoSansSymbols2-v2.004/NotoSansSymbols2-v2.004.zip
+branch: main
+files:
+  OFL.txt: OFL.txt
+  DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
+  NotoSansSymbols2/googlefonts/ttf/NotoSansSymbols2-Regular.ttf: NotoSansSymbols2-Regular.ttf
