@@ -1,0 +1,7 @@
+archive: https://github.com/notofonts/linear-a/releases/download/NotoSansLinearA-v2.001/NotoSansLinearA-v2.001.zip
+branch: main
+files:
+  OFL.txt: OFL.txt
+  ARTICLE.en_us.html: article/ARTICLE.en_us.html
+  DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
+  NotoSansLinearA/googlefonts/ttf/NotoSansLinearA-Regular.ttf: NotoSansLinearA-Regular.ttf
