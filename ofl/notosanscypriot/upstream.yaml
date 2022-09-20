@@ -1,0 +1,7 @@
+archive: https://github.com/notofonts/cypriot/releases/download/NotoSansCypriot-v2.001/NotoSansCypriot-v2.001.zip
+branch: main
+files:
+  OFL.txt: OFL.txt
+  ARTICLE.en_us.html: article/ARTICLE.en_us.html
+  DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
+  NotoSansCypriot/googlefonts/ttf/NotoSansCypriot-Regular.ttf: NotoSansCypriot-Regular.ttf
