@@ -1,0 +1,6 @@
+archive: https://github.com/notofonts/caucasian-albanian/releases/download/NotoSansCaucasianAlbanian-v2.004/NotoSansCaucasianAlbanian-v2.004.zip
+branch: main
+files:
+  OFL.txt: OFL.txt
+  DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
+  NotoSansCaucasianAlbanian/googlefonts/ttf/NotoSansCaucasianAlbanian-Regular.ttf: NotoSansCaucasianAlbanian-Regular.ttf
