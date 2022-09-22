@@ -10,8 +10,12 @@ fonts {
   filename: "Average-Regular.ttf"
   post_script_name: "Average-Regular"
   full_name: "Average Regular"
-  copyright: "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Average\""
+  copyright: "Copyright 2012 The Average Project Authors (https://github.com/etunni/average)"
 }
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
+source {
+  repository_url: "https://github.com/etunni/average"
+  commit: "6388db3a611d1d489a19a5511a90bb426bd2bae4"
+}
