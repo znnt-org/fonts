@@ -1,5 +1,5 @@
 name: "Merienda"
-designer: "Eduardo Tunni"
+designer: "Eben Sorkin"
 license: "OFL"
 category: "HANDWRITING"
 date_added: "2012-10-31"
@@ -7,20 +7,21 @@ fonts {
   name: "Merienda"
   style: "normal"
   weight: 400
-  filename: "Merienda-Regular.ttf"
-  post_script_name: "Merienda-Regular_0_wt"
-  full_name: "Merienda"
-  copyright: "Copyright (c) 2011-2012, Eduardo Tunni (http://www.tipo.net.ar edu@tipo.net.ar), with Reserved Font Name \'Merienda\'"
+  filename: "Merienda[wght].ttf"
+  post_script_name: "Merienda-Regular"
+  full_name: "Merienda Regular"
+  copyright: "Copyright 2017 The Merienda Project Authors (https://github.com/etunni/merienda)"
 }
-fonts {
-  name: "Merienda"
-  style: "normal"
-  weight: 700
-  filename: "Merienda-Bold.ttf"
-  post_script_name: "Merienda-Bold"
-  full_name: "Merienda Bold"
-  copyright: "Copyright (c) 2011-2012, Eduardo Tunni (http://www.tipo.net.ar edu@tipo.net.ar), with Reserved Font Name \'Merienda\'"
-}
-subsets: "menu"
 subsets: "latin"
 subsets: "latin-ext"
+subsets: "menu"
+subsets: "vietnamese"
+axes {
+  tag: "wght"
+  min_value: 300.0
+  max_value: 900.0
+}
+source {
+  repository_url: "https://github.com/etunni/merienda"
+  commit: "8e2c7fe0a3aaa5367b0d2910d5f5a59bf3a13c64"
+}
