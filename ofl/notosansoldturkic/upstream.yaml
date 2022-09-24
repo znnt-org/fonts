@@ -1,0 +1,7 @@
+archive: https://github.com/notofonts/old-turkic/releases/download/NotoSansOldTurkic-v2.002/NotoSansOldTurkic-v2.002.zip
+branch: main
+files:
+  OFL.txt: OFL.txt
+  ARTICLE.en_us.html: article/ARTICLE.en_us.html
+  DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
+  NotoSansOldTurkic/googlefonts/ttf/NotoSansOldTurkic-Regular.ttf: NotoSansOldTurkic-Regular.ttf
