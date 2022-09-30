@@ -1,5 +1,5 @@
 name: "Merienda"
-designer: "Eben Sorkin"
+designer: "Eduardo Tunni"
 license: "OFL"
 category: "HANDWRITING"
 date_added: "2012-10-31"
