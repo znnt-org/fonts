@@ -6,75 +6,31 @@ date_added: "2011-12-07"
 fonts {
   name: "Chivo"
   style: "normal"
-  weight: 300
-  filename: "Chivo-Light.ttf"
-  post_script_name: "Chivo-Light"
-  full_name: "Chivo Light"
-  copyright: "Copyright 2016 The Chivo Project Authors (omnibus.type@gmail.com)"
-}
-fonts {
-  name: "Chivo"
-  style: "italic"
-  weight: 300
-  filename: "Chivo-LightItalic.ttf"
-  post_script_name: "Chivo-LightItalic"
-  full_name: "Chivo Light Italic"
-  copyright: "Copyright 2016 The Chivo Project Authors (omnibus.type@gmail.com)"
-}
-fonts {
-  name: "Chivo"
-  style: "normal"
   weight: 400
-  filename: "Chivo-Regular.ttf"
-  post_script_name: "Chivo-Regular"
-  full_name: "Chivo Regular"
-  copyright: "Copyright 2016 The Chivo Project Authors (omnibus.type@gmail.com)"
+  filename: "Chivo[wght].ttf"
+  post_script_name: "Chivo-Thin"
+  full_name: "Chivo Thin"
+  copyright: "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)"
 }
 fonts {
   name: "Chivo"
   style: "italic"
   weight: 400
-  filename: "Chivo-Italic.ttf"
-  post_script_name: "Chivo-Italic"
-  full_name: "Chivo Italic"
-  copyright: "Copyright 2016 The Chivo Project Authors (omnibus.type@gmail.com)"
-}
-fonts {
-  name: "Chivo"
-  style: "normal"
-  weight: 700
-  filename: "Chivo-Bold.ttf"
-  post_script_name: "Chivo-Bold"
-  full_name: "Chivo Bold"
-  copyright: "Copyright 2016 The Chivo Project Authors (omnibus.type@gmail.com)"
-}
-fonts {
-  name: "Chivo"
-  style: "italic"
-  weight: 700
-  filename: "Chivo-BoldItalic.ttf"
-  post_script_name: "Chivo-BoldItalic"
-  full_name: "Chivo Bold Italic"
-  copyright: "Copyright 2016 The Chivo Project Authors (omnibus.type@gmail.com)"
-}
-fonts {
-  name: "Chivo"
-  style: "normal"
-  weight: 900
-  filename: "Chivo-Black.ttf"
-  post_script_name: "Chivo-Black"
-  full_name: "Chivo Black"
-  copyright: "Copyright 2016 The Chivo Project Authors (omnibus.type@gmail.com)"
-}
-fonts {
-  name: "Chivo"
-  style: "italic"
-  weight: 900
-  filename: "Chivo-BlackItalic.ttf"
-  post_script_name: "Chivo-BlackItalic"
-  full_name: "Chivo Black Italic"
-  copyright: "Copyright 2016 The Chivo Project Authors (omnibus.type@gmail.com)"
+  filename: "Chivo-Italic[wght].ttf"
+  post_script_name: "Chivo-ThinItalic"
+  full_name: "Chivo Thin Italic"
+  copyright: "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)"
 }
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
+subsets: "vietnamese"
+axes {
+  tag: "wght"
+  min_value: 100.0
+  max_value: 900.0
+}
+source {
+  repository_url: "https://github.com/Omnibus-Type/Chivo"
+  commit: "b651a548bc8432485aaf0513da0f00a9ad774868"
+}
